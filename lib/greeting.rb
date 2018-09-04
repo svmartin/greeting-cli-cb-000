@@ -1,4 +1,4 @@
 # code the #greeting method here!
 def greeting(name)
-  #{name}
+  "#{name}"
 end
